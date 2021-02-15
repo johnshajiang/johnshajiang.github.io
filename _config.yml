@@ -1,3 +1,5 @@
+baseurl: ""
+url: "https://johnshajiang.github.io"
 theme: jekyll-theme-cayman
-title: John Jiang
-description: John Jiang's Blogs
+title: "John Jiang"
+description: "John Jiang's Blogs"

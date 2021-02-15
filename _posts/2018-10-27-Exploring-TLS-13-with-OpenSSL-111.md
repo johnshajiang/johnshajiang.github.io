@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Exploring TLS 1.3 with OpenSSL 1.1.1"
-categories: Security
 ---
 
 ### TLS 1.3

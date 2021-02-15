@@ -1,6 +1,6 @@
 ### Security
 * [Exploring TLS 1.3 with OpenSSL 1.1.1](https://johnshajiang.github.io/2018/10/27/Exploring-TLS-1.3-with-OpenSSL-1.1.1.html)
-* [Generating certificates with OpenSSL](https://johnshajiang.github.io/2020/07/29/Generating-Certificates-with-OpenSSL.html)
+* [Generating certificates with OpenSSL](https://johnshajiang.github.io/2020/07/29/Generating-certificates-with-OpenSSL.html)
 * [Generating common test certificates](https://johnshajiang.github.io/2020/07/15/Generating-common-test-certificates.html)
 * [Check certificate revocation status with OpenSSL](https://johnshajiang.github.io/2020/07/20/Check-certificate-revocation-status-with-OpenSSL.html)
 

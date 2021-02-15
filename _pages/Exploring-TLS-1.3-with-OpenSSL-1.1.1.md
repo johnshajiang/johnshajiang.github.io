@@ -1,3 +1,8 @@
+---
+title: "Exploring TLS 1.3 with OpenSSL 1.1.1"
+permalink: Exploring-TLS-1.3-with-OpenSSL-1.1.1
+---
+
 ### TLS 1.3
 TLS 1.3, exactly RFC 8446, was published on 10th August 2018. This protocol is a big jump on making TLS faster and stronger.
 

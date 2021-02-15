@@ -3,6 +3,7 @@ layout: post
 title: "Generating common test certificates"
 ---
 
+```
 #
 # Generates common certificates for testing usages.
 # The generated certificates cover the following combinations.
